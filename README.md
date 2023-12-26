@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Lohar</h1>
 <h3 align="center">I build things for the web</h3>
 
-- 🔭 I’m currently working on [Personal portfolio](https://github.com/vivekmohanlohar/viveklohar)
+- 🔭 currently working on [Personal portfolio](https://github.com/vivekmohanlohar/viveklohar)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://vivekmohanlohar.github.io/viveklohar/](https://vivekmohanlohar.github.io/viveklohar/)
 
