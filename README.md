@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **vivekmohanlohar@gmail.com**
-
 - 📄 Know about my experiences [https://vivekmohanlohar.github.io/viveklohar/](https://vivekmohanlohar.github.io/viveklohar/)
 
 - ⚡ Fun fact **You are thinking about me**
